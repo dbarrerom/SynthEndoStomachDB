@@ -12,4 +12,5 @@ This repository contains the **Synthetic Stomach Endoscopy Dataset**, a realisti
 ![Pipeline](Pipeline.png)
 
 ## Download
-The dataset is available to create the 
+At the link below you can request access to the database.
+
