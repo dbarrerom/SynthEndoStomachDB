@@ -1,4 +1,4 @@
-# SyntheticStomachDataset
+# A Realistic Synthetic Endoscopy Dataset from CT-Stomachs with Gastric Wall Textures learned from Endoscopy Images
 A realistic synthetic endoscopy dataset from CT-derived 3D stomach models, with GAN-based gastric textures, depth maps, and 6-DoF poses.
 This repository contains the **Synthetic Stomach Endoscopy Dataset**, a realistic virtual endoscopy collection generated from 3D stomach models reconstructed from abdominal CT scans. Gastric mucosa textures were synthesized using **Infinite Texture GANs** trained with real endoscopic mucosa patches.
 
