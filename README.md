@@ -9,7 +9,7 @@ This repository contains the **Synthetic Stomach Endoscopy Dataset**, a realisti
 - 6-DoF camera pose annotations.
 
 ## Pipeline
-![Pipeline](docs/pipeline.png)
+![Pipeline](pipeline.png)
 
 ## Download
 The dataset is available to create the 
