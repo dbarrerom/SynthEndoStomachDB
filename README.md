@@ -35,7 +35,7 @@ Two gastroenterology residents compared the realism of this dataset to the refer
 | 24 (Ruano) + 24 (proposed) | 6 (Ruano)        | 0.387            | 94.022        | 0.320                |
 | 24 (Ruano) + 24 (proposed) | 6 (proposed)    | 0.411            | 78.489        | 0.259                |
 
----
+![Results](results.png)
 
 ## Download
 At the link below you can request access to the database.
